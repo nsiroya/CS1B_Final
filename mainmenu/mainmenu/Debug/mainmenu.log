@@ -1,0 +1,4 @@
+﻿  cashier.cpp
+C:\Users\noops\Documents\School\CS1B (ICS32)\mainmenu\mainmenu\cashier.cpp(130,1): warning C4996:  'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\time.h(476): message :  see declaration of 'ctime'
+  mainmenu.vcxproj -> C:\Users\noops\Documents\School\CS1B (ICS32)\mainmenu\Debug\mainmenu.exe
